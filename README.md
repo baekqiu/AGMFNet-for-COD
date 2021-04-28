@@ -1,7 +1,7 @@
 # AGMFNet-for-COD
 
 
-# Requirements
+# 1，Requirements
 The code is tested to work correctly with:
 
 -GPU enviornment
@@ -13,8 +13,17 @@ The code is tested to work correctly with:
 -CUDA v10.1 AND CUDNN v7.6.5
 
 
-# Datasets
+# 2，Datasets
 
 The training datasets:https://pan.baidu.com/s/1XL6OjpDF-MVnXOY6-bdaBg the code:djq2
 
 The testing datasets:https://pan.baidu.com/s/143yHFLAabMBT7wgXA0LrMg the code:z83z
+
+# 3，Usage
+
+The pre-trained model will be released very soon.
+
+
+# Contact
+
+Please drop me an email for further problems or discussion: zjnwpu@gmail.com
