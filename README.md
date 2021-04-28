@@ -26,4 +26,4 @@ The pre-trained model will be released very soon.
 
 # Contact
 
-Please drop me an email for further problems or discussion: zjnwpu@gmail.com
+Please drop me an email for further problems or discussion: qiuyan@njust.edu.cn
