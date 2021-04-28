@@ -10,3 +10,4 @@ The code is tested to work correctly with:
 
 -pytorch v1.5.1
 
+-CUDA v10.1 AND CUDNN v7.6.5
